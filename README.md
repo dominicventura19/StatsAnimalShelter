@@ -1,4 +1,4 @@
-Results can be viewed [here](https://htmlpreview.github.io/?https://github.com/dominicventura19/StatsAnimalShelter/blob/main/AnimalsProject.html)
+# Statistics Final Project
 
 These were the guidelines that needed to be followed based off the data teams chose. Teams only did time series, multi-nomial logit, or Poisson GLM. My team did a mix of time series and multi-nomial logit. Not everything from the multi-nomial logit section was required to be answered for my group since we also did time series analysis.
 
@@ -18,3 +18,6 @@ If using time series data:
   2. Point out predictors you are most interested in seeing in terms of their relationship with the response (make sure to point out at least one interaction as well). How do you plan to test these relationships? What about the significance of the overall model?
   3. Make sure to list the issues you need to look out for when using Poisson regression in studying count data, and how these issues can be addressed.
   4. How do you plan on evaluating predictive performance of your model? Any other models you’d like tocompare it’s performance against (need to use stuff you’ve learnt from the “Machine Learning” course)?
+
+# Results
+Our results can be viewed [here](https://htmlpreview.github.io/?https://github.com/dominicventura19/StatsAnimalShelter/blob/main/AnimalsProject.html)

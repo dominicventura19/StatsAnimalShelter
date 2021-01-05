@@ -1,3 +1,5 @@
+Results can be viewed [here](https://htmlpreview.github.io/?https://github.com/dominicventura19/StatsAnimalShelter/blob/main/AnimalsProject.html)
+
 These were the guidelines that needed to be followed based off the data teams chose. Teams only did time series, multi-nomial logit, or Poisson GLM. My team did a mix of time series and multi-nomial logit. Not everything from the multi-nomial logit section was required to be answered for my group since we also did time series analysis.
 
 If using time series data:
